@@ -1,2 +1,3 @@
-# classwidget-releases
-ClassWidget 배포용 저장소 (설치 파일 / 자동 업데이트 전용, 소스 미포함)
+# widget
+
+위젯 배포용 저장소입니다. 설치 파일과 자동 업데이트 파일만 올라갑니다.
